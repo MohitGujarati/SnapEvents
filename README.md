@@ -1,4 +1,5 @@
-# SnapEvents
+# InEvents
+
 
 | Kotlin, Firebase database, SQLite, Php, MySQL, Retrofit, Material design 
 
@@ -42,8 +43,13 @@
 
 <img src="https://user-images.githubusercontent.com/95397404/226164894-8c4d1b68-fcc4-4371-82a9-1714743a138d.jpg" alt="Add cat.." width="200" height="400"><img src="https://user-images.githubusercontent.com/95397404/226164923-0141aceb-e360-4cc4-8f6e-aa49823e284e.jpg" alt="Add cat.." width="200" height="400"><img src="https://user-images.githubusercontent.com/95397404/226164931-d3c713a4-dbae-4233-b85d-ba23c6cba768.jpg" alt="Add cat.." width="200" height="400">
 
-•SVED ARTICLE AND CART ITEMS
-<br>
+•Save ARTICLE AND CART ITEMS
+<be>
+
+
+
+
+Actual Images of application before getting real images and content from collage 
 <img src="https://user-images.githubusercontent.com/95397404/226165584-dbd47822-c6d6-4376-8472-55caf9a77ed8.jpg" alt="Add cat.." width="200" height="400"><img src="https://user-images.githubusercontent.com/95397404/226165582-343934a7-0de5-49ec-8479-6c9adef04624.jpg" alt="Add cat.." width="200" height="400">
 
 
